@@ -72,12 +72,9 @@ This dashboard is valuable for:
 
 ---
 
-## 📷 Preview
 
-![Netflix Power BI Dashboard](./Netflix%20Analysis.png)  
-*(Upload a dashboard screenshot and rename it if necessary)*
 
----
+
 
 ## 📬 Contact
 
